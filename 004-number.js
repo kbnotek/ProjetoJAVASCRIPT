@@ -7,7 +7,7 @@ parseflowt
 
 var idade = "20"
 console.log(typeof idade)
-var idade = Nummber("20")
+var idade = Number("20")
 console.log( typeof idade, idade)
 
 //converter  boolean para numero
@@ -19,15 +19,16 @@ console.log(typeof number, number)
 
 //converter data para numero
 
-var number = new Date()
+var number =  Number (new Date())
 console.log(typeof number, number)
 
 //CONVERTER DE STRING PARA NUMERO USANDO O PARSEINT 
 
-var n = "29.2356894168"
+var n = "29.23"
 console.log(typeof n, n)
 console.log(typeof parseInt(n), parseInt(n))
 
-//CONVERTER DE STRING PARA NUMERO USANDO O PARSEFLOAT
-
-var 
+/*CONVERTER DE STRING PARA NUMERO USANDO O PARSEFLOAT*/
+var n = "29.23"
+console.log(typeof n, n)
+console.log(typeof parseFloat(n), parseFloat(n))
