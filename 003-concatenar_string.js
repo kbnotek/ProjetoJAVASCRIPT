@@ -1,4 +1,4 @@
-var dono = "Ruan"
+var dono = "Bruno"
 var ddd = 61
 var telefone = "9 9999-9999"
 
