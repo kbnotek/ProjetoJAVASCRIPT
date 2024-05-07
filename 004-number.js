@@ -22,6 +22,7 @@ console.log(typeof number, number)
 var number =  Number (new Date())
 console.log(typeof number, number)
 
+
 //CONVERTER DE STRING PARA NUMERO USANDO O PARSEINT 
 
 var n = "29.23"
