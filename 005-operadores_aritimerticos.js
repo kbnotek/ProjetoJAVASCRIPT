@@ -22,7 +22,7 @@ let v3 = 10
 let v4 = 5
 let Subtração = v3 - v4
 
-console.log("A subtração é: " + subtração)
+console.log("A subtração é: " + Subtração)
 console.log("A suntração é: ", v3 - v4)//Conversão
 console.log("A subtração é:" + Number(v3 - v4))//conversão
 
@@ -31,7 +31,7 @@ let v5 = 2
 let v6 = 3
 let Divisão = v5 / v6
 
-console.log("A divisão é: " + divisão)
+console.log("A divisão é: " + Divisão)
 console.log("A divisão é: ", v5 / v6)//Conversão
 console.log("A divisão é:" + Number(v5 / v6))//conversão
 
@@ -40,6 +40,6 @@ let v7 = 2
 let v8 = 3
 let Multiplicação = v7 * v8
 
-console.log("A Multiplicação é: " + multiplicação)
+console.log("A Multiplicação é: " + Multiplicação)
 console.log("A Multiplicação é: " + v7 + v8)//Conversão
 console.log("A Multiplicação é:" + Number(v7 + v8))//conversão 
