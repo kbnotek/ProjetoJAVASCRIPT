@@ -8,7 +8,7 @@ parseflowt
 var idade = "20"
 console.log(typeof idade)
 var idade = Number("20")
-console.log( typeof idade, idade)
+console.log(typeof idade, idade)
 
 //converter  boolean para numero
 
@@ -19,7 +19,7 @@ console.log(typeof number, number)
 
 //converter data para numero
 
-var number =  Number (new Date())
+var number = Number(new Date())
 console.log(typeof number, number)
 
 
