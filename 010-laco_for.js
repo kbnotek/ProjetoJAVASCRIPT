@@ -13,3 +13,19 @@ O laço for é uma estrutura de controle que
   for (let i =0;i < frutas.length; i++){
     console.log('Eu gosto de '+ frutas[i]);
   }
+  const person = {
+    firstName: 'John',
+    lastName: 'Doe',
+    age: 30
+};
+
+for (let key in person) {
+    console.log(key + ': ' + person[key]);
+}
+
+for (let i = 0; i < 10; i++) {
+    if (i === 5) {
+        break;
+    }
+    console.log(i);
+}
