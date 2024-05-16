@@ -23,4 +23,3 @@ class Circulo {
   
   console.log(`Perímetro: ${meuCirculo.calcularPerimetro().toFixed(2)}`);
   console.log(`Área: ${meuCirculo.calcularArea().toFixed(2)}`);
-  
